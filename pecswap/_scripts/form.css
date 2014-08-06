@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	font-size:16px;
+}
+input[type="text"],input[type="select"]
+{
+	padding:0.2em;
+	font:Calibri;
+	width:180px;
+	height:20px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+}
+textarea {
+	padding:0.3em;
+	font:Calibri;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+}
+input[type="password"]
+{
+	padding:0.2em;
+	font:Calibri;
+	width:180px;
+	height:20px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+}
+input[type="file"]
+{
+	font-size:14px;
+	padding:0.2em;
+	font:Calibri;
+	width:180px;
+	height:20px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+}
+input[type="submit"]
+{
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	font-size:18px;
+	width:150px;
+	height:35px;
+	background:#707578;
+	color:#fffcf2;
+	margin-top:20px;
+}
+
+
+#signup
+{
+	margin-left:40px;
+	margin-top:40px;
+	width:600px;
+}
